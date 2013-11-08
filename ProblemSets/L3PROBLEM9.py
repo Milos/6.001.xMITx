@@ -16,6 +16,6 @@ while True:
         ans = (high + low)/2
     else:
         print 'Sorry, I did not understand your input.'
-        
+
     
     
